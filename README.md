@@ -21,8 +21,7 @@ Follow these instructions to get the project set up on your local machine.
     git clone <repository_url>
     cd Solar-Challenge-Week-1
     ```
-    *(Replace `<repository_url>` with the actual URL of your GitHub repository.)*
-
+   
 2.  **Create a virtual environment (recommended):**
 
     ```bash
