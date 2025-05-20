@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is for Solar Challenge Week 1.  *(Add a brief description of the project here. What is the purpose? What does it do?)*
+This project is for Solar Challenge Week 1.
 
 ## Setup
 
