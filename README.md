@@ -1,1 +1,49 @@
-# Solar Challenge Week 1\n\n## Setup\n1. Clone the repo\n2. Create and activate a virtual environment\n3. Install dependencies\n\n
+# Solar Challenge Week 1
+
+## Overview
+
+This project is for Solar Challenge Week 1.
+
+## Setup
+
+Follow these instructions to get the project set up on your local machine.
+
+### Prerequisites
+
+* Python 3.x installed
+* Git installed
+
+### Installation
+
+1.  **Clone the repository:**
+
+    ```bash
+    git clone <repository_url>
+    cd Solar-Challenge-Week-1
+    ```
+   
+2.  **Create a virtual environment (recommended):**
+
+    ```bash
+    python3 -m venv venv
+    ```
+
+3.  **Activate the virtual environment:**
+
+    * **On macOS and Linux:**
+
+        ```bash
+        source venv/bin/activate
+        ```
+
+    * **On Windows:**
+
+        ```bash
+        venv\Scripts\activate
+        ```
+
+4.  **Install dependencies:**
+
+    ```bash
+    pip install -r requirements.txt
+    ```
